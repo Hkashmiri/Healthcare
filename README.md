@@ -53,7 +53,7 @@ src/
 ## 🚀 Getting Started
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/healthcare-education-portal.git
+git clone https://github.com/Hkashmiri/healthcare-education-portal.git
 cd healthcare-education-portal
 ```
 2. Install dependencies:
