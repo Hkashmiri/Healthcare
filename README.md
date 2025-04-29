@@ -14,12 +14,12 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ---
 
-# 🧠 Smart Healthcare Education Portal
+# Smart Healthcare Education Portal
 
 Welcome to the **Smart Healthcare Portal**!  
 This project provides a platform where patients, clinicians, and researchers can access educational resources, contribute research papers, and manage clinical assessments.
 
-## 🚀 Features
+## Features
 
 - **Educational Hub:**  
   Learn about various healthcare topics in an organized, accessible format.
@@ -35,7 +35,7 @@ This project provides a platform where patients, clinicians, and researchers can
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:**  
   React.js (with React Router for page navigation)
@@ -48,7 +48,7 @@ This project provides a platform where patients, clinicians, and researchers can
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 ```
 src/
@@ -65,7 +65,7 @@ src/
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙Installation & Setup
 
 1. **Clone the repo**
 
@@ -116,7 +116,7 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ---
 
-## 🔥 Future Improvements
+## Future Improvements
 
 - Add authentication (patient and clinician login)
 - Role-based access for clinicians
@@ -126,7 +126,7 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ---
 
-## 🙌 Contribution
+## Contribution
 
 Pull requests are welcome!  
 If you want to contribute:
@@ -135,18 +135,3 @@ If you want to contribute:
 - Commit your changes (`git commit -m 'Add amazing feature'`)
 - Push to the branch (`git push origin feature-branch`)
 - Open a Pull Request
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-# ✨ Live Preview (Coming Soon!)
-
----
-
-Would you also like me to help you make a **cool project banner** for the top of your README? 🎨 (optional but makes it look even more official!)  
-Let me know! 🚀
